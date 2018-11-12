@@ -1,0 +1,1 @@
+var variations = "Hello World";
