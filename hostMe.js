@@ -1,1 +1,3 @@
-var variations = "Hello World";
+var ld;
+
+ld.variations = "Hello World";
